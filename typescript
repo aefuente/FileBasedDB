@@ -1,0 +1,974 @@
+Script started on 2021-01-23 10:22:08-0600
+]0;aefuente@turing: ~/DatabaseMG/Assignment1aefuente@turing:~/DatabaseMG/Assignment1$ ls -lt
+total 60
+-rw-rw-r-- 1 aefuente aefuente     0 Jan 23 10:22 typescript
+-rw-r--r-- 1 aefuente aefuente 31328 Jan 23 10:14 Parks.csv
+-rw-r--r-- 1 aefuente aefuente 17076 Jan 23 10:14 dbmg.py
+-rw-r--r-- 1 aefuente aefuente  7008 Jan 23 10:14 Assignment1.py
+]0;aefuente@turing: ~/DatabaseMG/Assignment1aefuente@turing:~/DatabaseMG/Assignment1$ python3 Assignment1.py 
+
+**********************************************************************
+*                                                                    *
+*                                                                    *
+*	   Welcome to Andre's record management system               *
+*                                                                    *
+*                                                                    *
+**********************************************************************
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 1
+
+
+----------------------------------------------------------------------
+
+You have selected to create a new database...
+
+
+Please enter the csv file's name: Parks.csv
+
+Parks.data not found
+
+
+Database Parks was succesfully created
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 9
+
+
+----------------------------------------------------------------------
+
+
+Exiting....
+
+
+----------------------------------------------------------------------
+
+
+]0;aefuente@turing: ~/DatabaseMG/Assignment1aefuente@turing:~/DatabaseMG/Assignment1$ python3 Assignment1.py ls -lt[K
+total 184
+-rw-rw-r-- 1 aefuente aefuente     94 Jan 23 10:22 Parks.config
+-rw-rw-r-- 1 aefuente aefuente 116128 Jan 23 10:22 Parks.data
+drwxrwxr-x 2 aefuente aefuente   4096 Jan 23 10:22 [0m[01;34m__pycache__[0m
+-rw-rw-r-- 1 aefuente aefuente      0 Jan 23 10:22 typescript
+-rw-r--r-- 1 aefuente aefuente  31328 Jan 23 10:14 Parks.csv
+-rw-r--r-- 1 aefuente aefuente  17076 Jan 23 10:14 dbmg.py
+-rw-r--r-- 1 aefuente aefuente   7008 Jan 23 10:14 Assignment1.py
+]0;aefuente@turing: ~/DatabaseMG/Assignment1aefuente@turing:~/DatabaseMG/Assignment1$ ls -ltpython3 Assignment1.py 
+
+**********************************************************************
+*                                                                    *
+*                                                                    *
+*	   Welcome to Andre's record management system               *
+*                                                                    *
+*                                                                    *
+**********************************************************************
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can display a record...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4 2
+
+
+----------------------------------------------------------------------
+
+You have selected to open an existing database....
+
+
+Please enter the prefix of your database: Parks
+
+
+Succesfully opened Parks database....
+
+----------------------------------------------------------------------
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 2877 
+
+
+**********************************************************************
+			Record: 2877
+
+ID                  :	 2877                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 CHIR                
+Name                :	 Chiricahua National Monument
+Type                :	 National Monument   
+Visitors            :	 3962885             
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 358382 
+
+
+**********************************************************************
+			Record: 358382
+
+ID                  :	 358382              
+Region              :	 PW                  
+State               :	 HI                  
+Code                :	 HALE                
+Name                :	 Haleakala National Park
+Type                :	 National Park       
+Visitors            :	 52237942            
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 2775875 
+
+
+**********************************************************************
+			Record: 2775875
+
+ID                  :	 2775875             
+Region              :	 NC                  
+State               :	 DC                  
+Code                :	 BEPA                
+Name                :	 Belmont-Paul Women's Equality National Monument
+Type                :	 National Monument   
+Visitors            :	 2704                
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 133333 
+
+
+**********************************************************************
+
+
+Record 133333 was not found
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 1416041 
+
+
+**********************************************************************
+			Record: 1416041
+
+ID                  :	 1416041             
+Region              :	 AK                  
+State               :	 AK                  
+Code                :	 GLBA                
+Name                :	 Glacier Bay National Preserve
+Type                :	 National Preserve   
+Visitors            :	 11949920            
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 5
+
+You would like to update a record....
+
+Enter in the record ID you would like to update: 1416041 
+
+
+**********************************************************************
+			Record: 1416041
+
+ID                  :	 1416041             
+Region              :	 AK                  
+State               :	 AK                  
+Code                :	 GLBA                
+Name                :	 Glacier Bay National Preserve
+Type                :	 National Preserve   
+Visitors            :	 11949920            
+
+
+**********************************************************************
+
+
+Type the field you wish to change (you cannot change the primary key): Visitors
+Enter the value: 106000000  
+
+
+**********************************************************************
+		Updated Record: 1416041
+
+ID                  :	 1416041             
+Region              :	 AK                  
+State               :	 AK                  
+Code                :	 GLBA                
+Name                :	 Glacier Bay National Preserve
+Type                :	 National Preserve   
+Visitors            :	 106000000           
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 1416041 
+
+
+**********************************************************************
+			Record: 1416041
+
+ID                  :	 1416041             
+Region              :	 AK                  
+State               :	 AK                  
+Code                :	 GLBA                
+Name                :	 Glacier Bay National Preserve
+Type                :	 National Preserve   
+Visitors            :	 106000000           
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 6
+
+Writing the report....
+
+
+
+**********************************************************************
+Report item #1
+
+
+ID                  :	 2877                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 CHIR                
+Name                :	 Chiricahua National Monument
+Type                :	 National Monument   
+Visitors            :	 3962885             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #2
+
+
+ID                  :	 6092                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 HUTR                
+Name                :	 Hubbell Trading Post National Historic Site
+Type                :	 National Historic Site
+Visitors            :	 6197119             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #3
+
+
+ID                  :	 8538                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 NAVA                
+Name                :	 Navajo National Monument
+Type                :	 National Monument   
+Visitors            :	 3399225             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #4
+
+
+ID                  :	 9526                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PISP                
+Name                :	 Pipe Spring National Monument
+Type                :	 National Monument   
+Visitors            :	 2456547             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #5
+
+
+ID                  :	 10683               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 SAGU                
+Name                :	 Saguaro National Park
+Type                :	 National Park       
+Visitors            :	 33169763            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #6
+
+
+ID                  :	 15492               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 ORPI                
+Name                :	 Organ Pipe Cactus National Monument
+Type                :	 National Monument   
+Visitors            :	 17138757            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #7
+
+
+ID                  :	 23864               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PEFO                
+Name                :	 Petrified Forest National Park
+Type                :	 National Park       
+Visitors            :	 54138794            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #8
+
+
+ID                  :	 23865               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 GLCA                
+Name                :	 Glen Canyon National Recreation Area
+Type                :	 National Recreation Area
+Visitors            :	 104419450           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #9
+
+
+ID                  :	 23866               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 GRCA                
+Name                :	 Grand Canyon National Park
+Type                :	 National Park       
+Visitors            :	 205486894           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #10
+
+
+ID                  :	 23944               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 RABR                
+Name                :	 Rainbow Bridge National Monument
+Type                :	 National Monument   
+Visitors            :	 7007990             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 7
+
+Adding a record....
+
+
+
+**********************************************************************
+
+
+Enter in the record ID you would like to add: 199000 
+Enter the Region    :	HW
+Enter the State     :	HW
+Enter the Code      :	HONO
+Enter the Name      :	HONOULIULI NATIONAL HISTORIC SITE
+Enter the Type      :	VERY PRETTY
+Enter the Visitors  :	729000
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 199000  
+
+
+**********************************************************************
+			Record: 199000
+
+ID                  :	 199000              
+Region              :	 HW                  
+State               :	 HW                  
+Code                :	 HONO                
+Name                :	 HONOULIULI NATIONAL HISTORIC SITE
+Type                :	 VERY PRETTY         
+Visitors            :	 729000              
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 8
+
+
+You have selected to delete a record...
+
+Enter in the record ID you would like to delete: 255923    
+
+
+You deleted the following record...
+**********************************************************************
+			Record: 255923
+
+ID                  :	 255923              
+Region              :	 PW                  
+State               :	 CA                  
+Code                :	 YOSE                
+Name                :	 Yosemite National Park
+Type                :	 National Park       
+Visitors            :	 190404561           
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 255923  
+
+
+**********************************************************************
+
+
+Record 255923 was not found
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 7
+
+Adding a record....
+
+
+
+**********************************************************************
+
+
+Enter in the record ID you would like to add: 100000   0
+Enter the Region    :	INDIANA DUNES NATIONAL PARK                           ID
+Enter the State     :	IN
+Enter the Code      :	SAND
+Enter the Name      :	INDIANA DUNES NATIONAL PARK
+Enter the Type      :	FUI N IN THE SUN
+Enter the Visitors  :	129
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 7
+
+Adding a record....
+
+
+
+**********************************************************************
+
+
+Enter in the record ID you would like to add: 111111
+Enter the Region    :	ZOE PARK
+Enter the State     :	ZO  AZ
+Enter the Code      :	ZOEP
+Enter the Name      :	ZOE PARK
+Enter the Type      :	LIBERTY
+Enter the Visitors  :	8900
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 111111 
+
+
+**********************************************************************
+			Record: 111111
+
+ID                  :	 111111              
+Region              :	 ZO                  
+State               :	 AZ                  
+Code                :	 ZOEP                
+Name                :	 ZOE PARK            
+Type                :	 LIBERTY             
+Visitors            :	 8900                
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 2877 
+
+
+**********************************************************************
+			Record: 2877
+
+ID                  :	 2877                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 CHIR                
+Name                :	 Chiricahua National Monument
+Type                :	 National Monument   
+Visitors            :	 3962885             
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 358382 
+
+
+**********************************************************************
+			Record: 358382
+
+ID                  :	 358382              
+Region              :	 PW                  
+State               :	 HI                  
+Code                :	 HALE                
+Name                :	 Haleakala National Park
+Type                :	 National Park       
+Visitors            :	 52237942            
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 2775875 
+
+
+**********************************************************************
+			Record: 2775875
+
+ID                  :	 2775875             
+Region              :	 NC                  
+State               :	 DC                  
+Code                :	 BEPA                
+Name                :	 Belmont-Paul Women's Equality National Monument
+Type                :	 National Monument   
+Visitors            :	 2704                
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 3
+
+
+----------------------------------------------------------------------
+
+
+Closing Parks database...
+
+
+----------------------------------------------------------------------
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can display a record...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 9
+
+
+----------------------------------------------------------------------
+
+
+Exiting....
+
+
+----------------------------------------------------------------------
+
+
+]0;aefuente@turing: ~/DatabaseMG/Assignment1aefuente@turing:~/DatabaseMG/Assignment1$ CAT [K[K[K[Kcapt Pa[K[K[K[K[K[K[Kexit
+exit
+
+Script done on 2021-01-23 10:28:41-0600

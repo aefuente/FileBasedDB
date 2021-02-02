@@ -1,0 +1,326 @@
+Script started on Sat Jan 23 12:00:15 2021
+Restored session: Sat Jan 23 11:58:40 CST 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004hppython3  Assignment1.py[1m [0m[0m [?2004l
+
+**********************************************************************
+*                                                                    *
+*                                                                    *
+*	   Welcome to Andre's record management system               *
+*                                                                    *
+*                                                                    *
+**********************************************************************
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 1
+
+
+----------------------------------------------------------------------
+
+You have selected to create a new database...
+
+
+Please enter the csv file's name: Parks.csv
+
+Parks is already a database, would you like overwrite it?(y/n): y
+
+
+Database Parks was succesfully created
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 2
+
+
+----------------------------------------------------------------------
+
+You have selected to open an existing database....
+
+
+Please enter the prefix of your database: Parks
+
+
+Succesfully opened Parks database....
+
+----------------------------------------------------------------------
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 5
+
+You would like to update a record....
+
+Enter in the record ID you would like to update: dsaflkdjsd
+
+
+Please enter integers only
+
+
+Enter in the record ID you would like to update: 1231.32
+
+
+Please enter integers only
+
+
+Enter in the record ID you would like to update: 0 -123
+
+
+Please enter positive integers only
+
+
+Enter in the record ID you would like to update: 0123
+
+
+**********************************************************************
+
+
+Record was not found
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 5
+
+You would like to update a record....
+
+Enter in the record ID you would like to update: 1888941
+
+
+**********************************************************************
+			Record: 1888941
+
+ID                  :	 1888941             
+Region              :	 IM                  
+State               :	 TX                  
+Code                :	 LYJO                
+Name                :	 Lyndon B. Johnson National Historical Park
+Type                :	 National Historical Park
+Visitors            :	 9764783             
+
+
+**********************************************************************
+
+
+Type the field you wish to change (you cannot change the primary key): ID
+Type the field you wish to change (you cannot change the primary key): ID
+Type the field you wish to change (you cannot change the primary key): ""
+Type the field you wish to change (you cannot change the primary key): 
+Type the field you wish to change (you cannot change the primary key): cat
+Type the field you wish to change (you cannot change the primary key): dog cat
+Type the field you wish to change (you cannot change the primary key): 
+Type the field you wish to change (you cannot change the primary key): Code
+Enter the value: WAAAS ZZOOOOOOOOOOOOO
+
+
+**********************************************************************
+		Updated Record: 1888941
+
+ID                  :	 1888941             
+Region              :	 IM                  
+State               :	 TX                  
+Code                :	 WAAA                
+Name                :	 Lyndon B. Johnson National Historical Park
+Type                :	 National Historical Park
+Visitors            :	 9764783             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 1888941
+
+
+**********************************************************************
+			Record: 1888941
+
+ID                  :	 1888941             
+Region              :	 IM                  
+State               :	 TX                  
+Code                :	 WAAA                
+Name                :	 Lyndon B. Johnson National Historical Park
+Type                :	 National Historical Park
+Visitors            :	 9764783             
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 5
+
+You would like to update a record....
+
+Enter in the record ID you would like to update: 1888941
+
+
+**********************************************************************
+			Record: 1888941
+
+ID                  :	 1888941             
+Region              :	 IM                  
+State               :	 TX                  
+Code                :	 WAAA                
+Name                :	 Lyndon B. Johnson National Historical Park
+Type                :	 National Historical Park
+Visitors            :	 9764783             
+
+
+**********************************************************************
+
+
+Type the field you wish to change (you cannot change the primary key): State
+Enter the value: 
+Enter the value:   ARKANSAS
+
+
+**********************************************************************
+		Updated Record: 1888941
+
+ID                  :	 1888941             
+Region              :	 IM                  
+State               :	 AR                  
+Code                :	 WAAA                
+Name                :	 Lyndon B. Johnson National Historical Park
+Type                :	 National Historical Park
+Visitors            :	 9764783             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+You would like to display a record....
+
+Enter in the record ID you would like to dislpay: 1888941
+
+
+**********************************************************************
+			Record: 1888941
+
+ID                  :	 1888941             
+Region              :	 IM                  
+State               :	 AR                  
+Code                :	 WAAA                
+Name                :	 Lyndon B. Johnson National Historical Park
+Type                :	 National Historical Park
+Visitors            :	 9764783             
+
+
+**********************************************************************
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 9
+
+
+----------------------------------------------------------------------
+
+
+You left a database open, safely shutting down...
+
+
+Exiting....
+
+
+----------------------------------------------------------------------
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Jan 23 12:02:07 2021

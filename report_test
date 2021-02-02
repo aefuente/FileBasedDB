@@ -1,0 +1,574 @@
+Script started on Sun Jan 24 05:13:27 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004hppython3 Assignment1.py[1m [0m[0m [?2004l
+
+**********************************************************************
+*                                                                    *
+*                                                                    *
+*	   Welcome to Andre's record management system               *
+*                                                                    *
+*                                                                    *
+**********************************************************************
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 2
+
+
+----------------------------------------------------------------------
+
+You have selected to open an existing database....
+
+
+Please enter the prefix of your database: Parks
+
+
+Succesfully opened Parks database....
+
+----------------------------------------------------------------------
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 6
+
+Writing the report....
+
+
+
+**********************************************************************
+Report item #1
+
+
+ID                  :	 2877                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 CHIR                
+Name                :	 Chiricahua National Monument
+Type                :	 National Monument   
+Visitors            :	 3962885             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #2
+
+
+ID                  :	 6092                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 HUTR                
+Name                :	 Hubbell Trading Post National Historic Site
+Type                :	 National Historic Site
+Visitors            :	 6197119             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #3
+
+
+ID                  :	 8538                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 NAVA                
+Name                :	 Navajo National Monument
+Type                :	 National Monument   
+Visitors            :	 3399225             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #4
+
+
+ID                  :	 9526                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PISP                
+Name                :	 Pipe Spring National Monument
+Type                :	 National Monument   
+Visitors            :	 2456547             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #5
+
+
+ID                  :	 10683               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 SAGU                
+Name                :	 Saguaro National Park
+Type                :	 National Park       
+Visitors            :	 33169763            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #6
+
+
+ID                  :	 15492               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 ORPI                
+Name                :	 Organ Pipe Cactus National Monument
+Type                :	 National Monument   
+Visitors            :	 17138757            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #7
+
+
+ID                  :	 23864               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PEFO                
+Name                :	 Petrified Forest National Park
+Type                :	 National Park       
+Visitors            :	 54138794            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #8
+
+
+ID                  :	 23865               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 GLCA                
+Name                :	 Glen Canyon National Recreation Area
+Type                :	 National Recreation Area
+Visitors            :	 104419450           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #9
+
+
+ID                  :	 23866               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 GRCA                
+Name                :	 Grand Canyon National Park
+Type                :	 National Park       
+Visitors            :	 205486894           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #10
+
+
+ID                  :	 23944               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 RABR                
+Name                :	 Rainbow Bridge National Monument
+Type                :	 National Monument   
+Visitors            :	 7007990             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 8
+
+
+You have selected to delete a record...
+
+Enter in the record ID you would like to delete: 2877
+
+
+You deleted the following record...
+**********************************************************************
+			Record: 2877
+
+ID                  :	 2877                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 CHIR                
+Name                :	 Chiricahua National Monument
+Type                :	 National Monument   
+Visitors            :	 3962885             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 8
+
+
+You have selected to delete a record...
+
+Enter in the record ID you would like to delete: 6092 2
+
+
+You deleted the following record...
+**********************************************************************
+			Record: 6092
+
+ID                  :	 6092                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 HUTR                
+Name                :	 Hubbell Trading Post National Historic Site
+Type                :	 National Historic Site
+Visitors            :	 6197119             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 8
+
+
+You have selected to delete a record...
+
+Enter in the record ID you would like to delete: 23944
+
+
+You deleted the following record...
+**********************************************************************
+			Record: 23944
+
+ID                  :	 23944               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 RABR                
+Name                :	 Rainbow Bridge National Monument
+Type                :	 National Monument   
+Visitors            :	 7007990             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 6
+
+Writing the report....
+
+
+
+**********************************************************************
+Report item #1
+
+
+ID                  :	 8538                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 NAVA                
+Name                :	 Navajo National Monument
+Type                :	 National Monument   
+Visitors            :	 3399225             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #2
+
+
+ID                  :	 9526                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PISP                
+Name                :	 Pipe Spring National Monument
+Type                :	 National Monument   
+Visitors            :	 2456547             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #3
+
+
+ID                  :	 10683               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 SAGU                
+Name                :	 Saguaro National Park
+Type                :	 National Park       
+Visitors            :	 33169763            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #4
+
+
+ID                  :	 15492               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 ORPI                
+Name                :	 Organ Pipe Cactus National Monument
+Type                :	 National Monument   
+Visitors            :	 17138757            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #5
+
+
+ID                  :	 23864               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PEFO                
+Name                :	 Petrified Forest National Park
+Type                :	 National Park       
+Visitors            :	 54138794            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #6
+
+
+ID                  :	 23865               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 GLCA                
+Name                :	 Glen Canyon National Recreation Area
+Type                :	 National Recreation Area
+Visitors            :	 104419450           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #7
+
+
+ID                  :	 23866               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 GRCA                
+Name                :	 Grand Canyon National Park
+Type                :	 National Park       
+Visitors            :	 205486894           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #8
+
+
+ID                  :	 31964               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 MOCA                
+Name                :	 Montezuma Castle National Monument
+Type                :	 National Monument   
+Visitors            :	 32513332            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #9
+
+
+ID                  :	 34968               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 SUCR                
+Name                :	 Sunset Crater Volcano National Monument
+Type                :	 National Monument   
+Visitors            :	 15738283            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #10
+
+
+ID                  :	 35382               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 TONT                
+Name                :	 Tonto National Monument
+Type                :	 National Monument   
+Visitors            :	 3955070             
+
+
+**********************************************************************
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 9
+
+
+----------------------------------------------------------------------
+
+
+You left a database open, safely shutting down...
+
+
+Exiting....
+
+
+----------------------------------------------------------------------
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Jan 24 05:14:19 2021

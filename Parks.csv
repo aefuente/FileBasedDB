@@ -1,0 +1,383 @@
+ID,Region,State,Code,Name,Type,Visitors
+2877,IM,AZ,CHIR,Chiricahua National Monument,National Monument,3962885
+6092,IM,AZ,HUTR,Hubbell Trading Post National Historic Site,National Historic Site,6197119
+8538,IM,AZ,NAVA,Navajo National Monument,National Monument,3399225
+9526,IM,AZ,PISP,Pipe Spring National Monument,National Monument,2456547
+10683,IM,AZ,SAGU,Saguaro National Park,National Park,33169763
+15492,IM,AZ,ORPI,Organ Pipe Cactus National Monument,National Monument,17138757
+23864,IM,AZ,PEFO,Petrified Forest National Park,National Park,54138794
+23865,IM,UT,GLCA,Glen Canyon National Recreation Area,National Recreation Area,104419450
+23866,IM,AZ,GRCA,Grand Canyon National Park,National Park,205486894
+23944,IM,UT,RABR,Rainbow Bridge National Monument,National Monument,7007990
+31964,IM,AZ,MOCA,Montezuma Castle National Monument,National Monument,32513332
+34968,IM,AZ,SUCR,Sunset Crater Volcano National Monument,National Monument,15738283
+35382,IM,AZ,TONT,Tonto National Monument,National Monument,3955070
+35519,IM,AZ,TUMA,Tumacacori National Historical Park,National Historical Park,4054113
+35601,IM,AZ,TUZI,Tuzigoot National Monument,National Monument,5706971
+35848,IM,AZ,WACA,Walnut Canyon National Monument,National Monument,6605855
+38197,IM,AZ,WUPA,Wupatki National Monument,National Monument,11163242
+40512,IM,AZ,CORO,Coronado National Memorial,National Memorial,3996485
+44811,IM,AZ,CAGR,Casa Grande Ruins National Monument,National Monument,7810317
+44981,IM,AZ,CACH,Canyon de Chelly National Monument,National Monument,31616091
+53246,MW,AR,PERI,Pea Ridge National Military Park,National Military Park,5516360
+56686,MW,AR,FOSM,Fort Smith National Historic Site,National Historic Site,4642858
+56796,MW,AR,HOSP,Hot Springs National Park,National Park,92028933
+74272,MW,AR,BUFF,Buffalo National River,National River,38574595
+123648,SE,MS,NATR,Natchez Trace Parkway,Parkway,443145232
+126026,SE,AL,RUCA,Russell Cave National Monument,National Monument,1322056
+149966,SE,AL,HOBE,Horseshoe Bend National Military Park,National Military Park,4656085
+158362,SE,AL,TUIN,Tuskegee Institute National Historic Site,National Historic Site,5487784
+169567,IM,CO,DINO,Dinosaur National Monument,National Monument,20604107
+179042,IM,CO,MEVE,Mesa Verde National Park,National Park,32863857
+191398,IM,CO,FLFO,Florissant Fossil Beds National Monument,National Monument,3227198
+196412,IM,CO,CURE,Curecanti National Recreation Area,National Recreation Area,44868302
+202252,IM,CO,COLM,Colorado National Monument,National Monument,23230064
+202599,IM,UT,HOVE,Hovenweep National Monument,National Monument,1178947
+203271,IM,CO,BLCA,Black Canyon of the Gunnison National Park,National Park,13686363
+204948,IM,CO,ROMO,Rocky Mountain National Park,National Park,180076609
+226274,PW,CA,JOMU,John Muir National Historic Site,National Historic Site,1445658
+229295,PW,CA,MUWO,Muir Woods National Monument,National Monument,64822563
+234493,PW,CA,PORE,Point Reyes National Seashore,National Seashore,97582250
+247533,PW,CA,PINN,Pinnacles National Park,National Park,10492968
+255923,PW,CA,YOSE,Yosemite National Park,National Park,190404561
+255948,PW,CA,KICA,Kings Canyon National Park,National Park,52978184
+255952,PW,CA,GOGA,Golden Gate National Recreation Area,National Recreation Area,611031225
+255957,PW,CA,CABR,Cabrillo National Monument,National Monument,75848069
+262325,PW,CA,LAVO,Lassen Volcanic National Park,National Park,28290902
+262358,PW,CA,LABE,Lava Beds National Monument,National Monument,6870346
+266000,PW,CA,SEQU,Sequoia National Park,National Park,62857221
+266641,PW,CA,DEPO,Devils Postpile National Monument,National Monument,6079064
+277109,PW,CA,REDW,Redwood National Park,National Park,19353209
+277261,PW,CA,JOTR,Joshua Tree National Park,National Park,56684694
+277263,PW,CA,SAMO,Santa Monica Mountains National Recreation Area,National Recreation Area,17573474
+277264,PW,CA,WHIS,Whiskeytown-Shasta-Trinity National Recreation Area,National Recreation Area,52768231
+282677,SE,FL,FOCA,Fort Caroline National Memorial,National Memorial,8345789
+293666,SE,FL,EVER,Everglades National Park,National Park,56228594
+294450,SE,FL,BISC,Biscayne National Park,National Park,18615078
+294586,SE,FL,DESO,De Soto National Memorial,National Memorial,11426649
+302659,SE,FL,BICY,Big Cypress National Preserve,National Preserve,16439262
+307632,SE,FL,DRTO,Dry Tortugas National Park,National Park,2004566
+307730,SE,FL,CANA,Canaveral National Seashore,National Seashore,44656991
+307911,SE,FL,CASA,Castillo de San Marcos National Monument,National Monument,44625047
+307963,SE,FL,FOMA,Fort Matanzas National Monument,National Monument,24269348
+310345,SE,GA,KEMO,Kennesaw Mountain National Battlefield Park,National Battlefield Park,55767162
+310534,SE,GA,ANDE,Andersonville National Historic Site,National Historic Site,6513701
+314290,SE,GA,FOFR,Fort Frederica National Monument,National Monument,15513013
+314296,SE,GA,FOPU,Fort Pulaski National Monument,National Monument,19060284
+325829,SE,GA,CUIS,Cumberland Island National Seashore,National Seashore,1846435
+330990,SE,GA,CHCH,Chickamauga and Chattanooga National Military Park,National Military Park,63910183
+358382,PW,HI,HALE,Haleakala National Park,National Park,52237942
+358732,PW,HI,PUHO,Pu'uhonua o Honaunau National Historical Park,National Historical Park,18694177
+365030,PW,HI,KALA,Kalaupapa National Historical Park,National Historical Park,1310804
+365210,PW,HI,HAVO,Hawai'i Volcanoes National Park,National Park,82993984
+394735,PW,WA,NEPE,Nez Perce National Historical Park,National Historical Park,9566104
+395749,PW,ID,HAFO,Hagerman Fossil Beds National Monument,National Monument,433428
+401309,PW,ID,CIRO,City of Rocks National Reserve,National Reserve,2079402
+446882,MW,IN,LIBO,Lincoln Boyhood National Memorial,National Memorial,8787121
+446903,MW,IN,INDU,Indiana Dunes National Lakeshore,National Lakeshore,67586940
+447197,MW,IN,GERO,George Rogers Clark National Historical Park,National Historical Park,5604410
+456249,MW,IA,EFMO,Effigy Mounds National Monument,National Monument,5185912
+457629,MW,IA,HEHO,Herbert Hoover National Historic Site,National Historic Site,10342578
+475845,MW,KS,FOLS,Fort Larned National Historic Site,National Historic Site,1796546
+480986,MW,KS,FOSC,Fort Scott National Historic Site,National Historic Site,1804630
+490476,SE,KY,CUGA,Cumberland Gap National Historical Park,National Historical Park,40057258
+496556,SE,KY,ABLI,Abraham Lincoln Birthplace National Historical Park,National Historical Park,20740061
+507318,SE,KY,MACA,Mammoth Cave National Park,National Park,84750237
+530557,NC,DC,JEFM,Thomas Jefferson Memorial,National Memorial,107660113
+530563,NC,DC,ROCR,Rock Creek Park,Park,79399169
+530748,NC,DC,FOTH,Ford's Theatre National Historic Site,National Historic Site,42738389
+530776,NC,DC,LYBA,Lyndon Baines Johnson Memorial Grove on the Potomac,National Memorial,18678059
+531832,NC,DC,VIVE,Vietnam Veterans Memorial,National Memorial,113224323
+531835,NC,DC,LINC,Lincoln Memorial,National Memorial,238620382
+531850,NC,DC,WAMO,Washington Monument,National Memorial,81365896
+560393,SE,LA,JELA,Jean Lafitte National Historical Park and Preserve,National Historical Park and Preserve,31878925
+578853,NE,ME,ACAD,Acadia National Park,National Park,163512192
+581971,NE,ME,SACR,Saint Croix Island International Historic Site,International Historic Site,48711
+583623,NC,MD,CATO,Catoctin Mountain Park,Other Designation,23843740
+583731,NC,DC,CHOH,Chesapeake and Ohio Canal National Historical Park,National Historical Park,155933303
+584569,NC,VA,GWMP,George Washington Memorial Parkway,National Parkway,330201962
+584846,NE,MD,HAMP,Hampton National Historic Site,National Historic Site,2162383
+588388,NC,MD,MONO,Monocacy National Battlefield,National Battlefield,676477
+589056,NE,MD,ASIS,Assateague Island National Seashore,National Seashore,98116492
+589057,NC,MD,ANTI,Antietam National Battlefield,National Battlefield,20419836
+595218,NE,MD,FOMC,Fort McHenry National Monument and Historic Shrine,National Monument,46676201
+597426,NC,MD,FOWA,Fort Washington Park,Other Designation,15939748
+597496,NC,MD,GREE,Greenbelt Park,Other Designation,12785203
+600017,NE,MA,SAIR,Saugus Iron Works National Historic Site,National Historic Site,1372599
+600051,NE,MA,MIMA,Minute Man National Historical Park,National Historical Park,48313847
+600140,NE,MA,BOST,Boston National Historical Park,National Historical Park,87202111
+606900,NE,MA,CACO,Cape Cod National Seashore,National Seashore,236090520
+607138,NE,MA,JOFI,John Fitzgerald Kennedy National Historic Site,National Historic Site,859421
+634820,MW,MI,PIRO,Pictured Rocks National Lakeshore,National Lakeshore,19983228
+638101,MW,MI,SLBE,Sleeping Bear Dunes National Lakeshore,National Lakeshore,45701660
+644333,MW,MI,GRPO,Grand Portage National Monument,National Monument,3651067
+649530,MW,MN,PIPE,Pipestone National Monument,National Monument,7531121
+660491,MW,MN,VOYA,Voyageurs National Park,National Park,8861822
+667556,SE,MS,BRCR,Brices Cross Roads National Battlefield Site,National Battlefield Site,88266
+679217,SE,LA,VICK,Vicksburg National Military Park,National Military Park,49961643
+689020,SE,FL,GUIS,Gulf Islands National Seashore,National Seashore,180759814
+718402,MW,MO,GWCA,George Washington Carver National Monument,National Monument,2901369
+735922,MW,MO,WICR,Wilson's Creek National Battlefield,National Battlefield,7157248
+751466,MW,MO,OZAR,Ozark National Scenic Riverways,National Scenic Riverway,70782690
+765817,MW,MO,JEFF,Jefferson National Expansion Memorial,National Memorial,134831931
+767934,IM,WY,BICA,Bighorn Canyon National Recreation Area,National Recreation Area,14298637
+771520,MW,ND,FOUS,Fort Union Trading Post National Historic Site,National Historic Site,767988
+779820,PW,MT,BIHO,Big Hole National Battlefield,National Battlefield,2516553
+806297,IM,MT,LIBI,Little Bighorn Battlefield National Monument,National Monument,17816900
+806847,IM,MT,GRKO,Grant-Kohrs Ranch National Historic Site,National Historic Site,878576
+826917,MW,NE,AGFO,Agate Fossil Beds National Monument,National Monument,621551
+830099,MW,NE,HOME,Homestead National Monument of America,National Monument,2446917
+833315,MW,NE,SCBL,Scotts Bluff National Monument,National Monument,9712303
+857501,PW,CA,DEVA,Death Valley National Park,National Park,46007802
+858265,PW,NV,LAKE,Lake Mead National Recreation Area,National Recreation Area,411700377
+862430,PW,NV,GRBA,Great Basin National Park,National Park,3770774
+874901,NE,NJ,EDIS,Thomas Edison National Historical Park,National Historic Site,2586270
+878495,NE,NJ,MORR,Morristown National Historical Park,National Historical Park,34593201
+880864,NE,NY,STLI,Statue Of Liberty National Monument,National Monument,162010548
+882894,NE,NY,GATE,Gateway National Recreation Area,National Recreation Area,329664174
+885961,IM,NM,AZRU,Aztec Ruins National Monument,National Monument,3941348
+889156,IM,NM,FOUN,Fort Union National Monument,National Monument,836310
+904780,IM,NM,CAVE,Carlsbad Caverns National Park,National Park,43733704
+906062,IM,NM,ELMO,El Morro National Monument,National Monument,2788508
+914261,IM,NM,WHSA,White Sands National Monument,National Monument,33820019
+920404,IM,NM,PETR,Petroglyph National Monument,National Monument,2363557
+928874,IM,NM,BAND,Bandelier National Monument,National Monument,13779272
+928945,IM,NM,GICL,Gila Cliff Dwellings National Monument,National Monument,2195383
+936867,IM,NM,CAVO,Capulin Volcano National Monument,National Monument,3878913
+936877,IM,NM,SAPU,Salinas Pueblo Missions National Monument,National Monument,1887492
+936878,IM,NM,CHCU,Chaco Culture National Historical Park,National Historical Park,3201931
+937161,IM,NM,PECO,Pecos National Historical Park,National Historical Park,2168202
+945983,NE,NY,CACL,Castle Clinton National Monument,National Monument,113457923
+964487,NE,NY,SARA,Saratoga National Historical Park,National Historical Park,8228453
+968452,NE,NY,VAMA,Vanderbilt Mansion National Historic Site,National Historic Site,21314334
+970121,NE,NY,FIIS,Fire Island National Seashore,National Seashore,26946346
+970557,NE,NY,SAHI,Sagamore Hill National Historic Site,National Historic Site,5778707
+982628,SE,NC,CAHA,Cape Hatteras National Seashore,National Seashore,105764049
+985324,SE,NC,FORA,Fort Raleigh National Historic Site,National Historic Site,17823602
+986193,SE,NC,GUCO,Guilford Courthouse National Military Park,National Military Park,22470450
+1000889,SE,NC,CALO,Cape Lookout National Seashore,National Seashore,14391636
+1006677,SE,NC,CARL,Carl Sandburg Home National Historic Site,National Historic Site,2148109
+1009494,NT,NC,BLRI,Blue Ridge Parkway,Parkway,871922828
+1018241,SE,NC,GRSM,Great Smoky Mountains National Park,National Park,521947058
+1025558,SE,NC,MOCR,Moores Creek National Battlefield,National Battlefield,3311344
+1027483,SE,NC,WRBR,Wright Brothers National Memorial,National Memorial,27109570
+1033824,MW,ND,THRO,Theodore Roosevelt National Park,National Park,31479563
+1066328,MW,OH,CUVA,Cuyahoga Valley National Park,National Park,81631077
+1082175,MW,OH,PEVI,Perry's Victory and International Peace Memorial,National Memorial,8978923
+1083940,MW,OH,DAAV,Dayton Aviation Heritage National Historical Park,National Historical Park,1172176
+1101907,IM,OK,CHIC,Chickasaw National Recreation Area,National Recreation Area,72631445
+1133439,PW,OR,JODA,John Day Fossil Beds National Monument,National Monument,4958825
+1147260,PW,OR,ORCA,Oregon Caves National Monument and Preserve,National Monument,7866349
+1163670,PW,OR,CRLA,Crater Lake National Park,National Park,34669486
+1175577,NE,PA,GETT,Gettysburg National Military Park,National Military Park,130245975
+1177725,NE,PA,INDE,Independence National Historical Park,National Historical Park,193986440
+1193711,NE,PA,DEWA,Delaware Water Gap National Recreation Area,National Recreation Area,160743521
+1193713,NE,PA,FONE,Fort Necessity National Battlefield,National Battlefield,12390571
+1193717,NE,PA,HOFU,Hopewell Furnace National Historic Site,National Historic Site,7532506
+1200751,NE,PA,JOFL,Johnstown Flood National Memorial,National Memorial,4863668
+1211947,NE,PA,VAFO,Valley Forge National Historical Park,National Historical Park,88327246
+1214216,NE,PA,ALPO,Allegheny Portage Railroad National Historic Site,National Historic Site,5026369
+1222505,SE,SC,FOSU,Fort Sumter National Monument,National Monument,22549148
+1223739,SE,SC,KIMO,Kings Mountain National Military Park,National Military Park,16219712
+1227788,SE,SC,NISI,Ninety Six National Historic Site,National Historic Site,1412920
+1247412,SE,SC,COWP,Cowpens National Battlefield,National Battlefield,6772190
+1252725,SE,SC,CHPI,Charles Pinckney National Historic Site,National Historic Site,812305
+1261888,MW,SD,JECA,Jewel Cave National Monument,National Monument,6103253
+1262098,MW,SD,MORU,Mount Rushmore National Memorial,National Memorial,113662332
+1263056,MW,SD,WICA,Wind Cave National Park,National Park,41035166
+1265096,MW,SD,BADL,Badlands National Park,National Park,69483454
+1270094,SE,MS,SHIL,Shiloh National Battlefield,National Battlefield,30903907
+1284664,SE,TN,FODO,Fort Donelson National Battlefield,National Battlefield,21869956
+1304837,SE,TN,ANJO,Andrew Johnson National Historic Site,National Historic Site,3727887
+1309684,SE,TN,OBRI,Obed Wild and Scenic River,Wild and Scenic River,5661696
+1309762,SE,TN,BISO,Big South Fork National River and Recreation Area,National River and Recreation Area,21360933
+1329499,IM,TX,AMIS,Amistad National Recreation Area,National Recreation Area,59469112
+1357585,IM,TX,FODA,Fort Davis National Historic Site,National Historic Site,3536669
+1377039,IM,TX,SAAN,San Antonio Missions National Historical Park,National Historical Park,32032851
+1377082,IM,TX,BIBE,Big Bend National Park,National Park,15820237
+1377201,IM,TX,GUMO,Guadalupe Mountains National Park,National Park,7211673
+1377214,IM,TX,ALFL,Alibates Flint Quarries National Monument,National Monument,136070
+1383785,IM,TX,PAIS,Padre Island National Seashore,National Seashore,34688151
+1384770,IM,TX,LAMR,Lake Meredith National Recreation Area,National Recreation Area,61625990
+1413640,AK,AK,NOAT,Noatak National Preserve,National Preserve,219938
+1416034,AK,AK,ANIA,Aniakchak National Monument,National Monument,10490
+1416034,AK,AK,ANIA,Aniakchak National Preserve,National Preserve,10490
+1416037,AK,AK,BELA,Bering Land Bridge National Preserve,National Preserve,45498
+1416038,AK,AK,CAKR,Cape Krusenstern National Monument,National Monument,195519
+1416040,AK,AK,GAAR,Gates of the Arctic National Park,National Park,225813
+1416040,AK,AK,GAAR,Gates of the Arctic National Preserve,National Preserve,225813
+1416041,AK,AK,GLBA,Glacier Bay National Park,National Park,11949920
+1416041,AK,AK,GLBA,Glacier Bay National Preserve,National Preserve,11949920
+1416045,AK,AK,KATM,Katmai National Park,National Park,1580146
+1416045,AK,AK,KATM,Katmai National Preserve,National Preserve,1580146
+1416046,AK,AK,KOVA,Kobuk Valley National Park,National Park,156655
+1416049,AK,AK,LACL,Lake Clark National Park,National Park,363894
+1416049,AK,AK,LACL,Lake Clark National Preserve,National Preserve,363894
+1416055,AK,AK,WRST,Wrangell-St. Elias National Park,National Park,1607332
+1416055,AK,AK,WRST,Wrangell-St. Elias National Preserve,National Preserve,1607332
+1416058,AK,AK,YUCH,Yukon-Charley Rivers National Preserve,National Preserve,122320
+1417085,AK,AK,SITK,Sitka National Historical Park,National Historical Park,7947795
+1419645,AK,AK,KEFJ,Kenai Fjords National Park,National Park,7067013
+1423115,AK,AK,KLGO,Klondike Gold Rush National Historical Park,National Historical Park,19476522
+1428242,IM,UT,GOSP,Golden Spike National Historic Site,National Historic Site,2532785
+1434866,IM,UT,CARE,Capitol Reef National Park,National Park,25845196
+1439558,IM,UT,CEBR,Cedar Breaks National Monument,National Monument,25389889
+1446610,IM,UT,TICA,Timpanogos Cave National Monument,National Monument,8286685
+1448008,IM,UT,CANY,Canyonlands National Park,National Park,13990095
+1450197,IM,UT,BRCA,Bryce Canyon National Park,National Park,49710389
+1454484,IM,UT,NABR,Natural Bridges National Monument,National Monument,4509201
+1455157,IM,UT,ZION,Zion National Park,National Park,111311078
+1455716,IM,UT,ARCH,Arches National Park,National Park,32577956
+1462531,NE,VA,APCO,Appomattox Court House National Historical Park,National Historical Park,13847406
+1467038,NE,VA,GEWA,George Washington Birthplace National Monument,National Monument,8779227
+1470042,NC,VA,MANA,Manassas National Battlefield Park,National Battlefield Park,39626059
+1472799,NC,VA,PRWI,Prince William Forest Park,Park,18512459
+1473199,NE,VA,RICH,Richmond National Battlefield Park,National Battlefield Park,14893857
+1477005,NE,VA,BOWA,Booker T. Washington National Monument,National Monument,1275899
+1478412,NE,VA,COLO,Colonial National Historical Park,National Historical Park,282420671
+1488805,NE,VA,SHEN,Shenandoah National Park,National Park,126112145
+1488838,NE,VA,FRSP,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,National Military Park,42957488
+1498529,NE,VA,PETE,Petersburg National Battlefield,National Battlefield,34424404
+1504974,PW,WA,FOVA,Fort Vancouver National Historic Site,National Historic Site,20238294
+1528416,PW,WA,MORA,Mount Rainier National Park,National Park,94488801
+1528419,PW,WA,ROLA,Ross Lake National Recreation Area,National Recreation Area,11335924
+1528421,PW,WA,NOCA,North Cascades National Park,National Park,14809679
+1528425,PW,WA,LACH,Lake Chelan National Recreation Area,National Recreation Area,1046956
+1530459,PW,WA,OLYM,Olympic National Park,National Park,160737962
+1531185,PW,WA,WHMI,Whitman Mission National Historic Site,National Historic Site,4934694
+1531834,PW,WA,LARO,Lake Roosevelt National Recreation Area,National Recreation Area,62247752
+1534055,PW,WA,SAJH,San Juan Island National Historical Park,National Historical Park,23066952
+1556735,NC,WV,HAFE,Harpers Ferry National Historical Park,National Historical Park,32575872
+1581059,MW,WI,APIS,Apostle Islands National Lakeshore,National Lakeshore,6315921
+1597073,IM,WY,FOLA,Fort Laramie National Historic Site,National Historic Site,4764617
+1597571,IM,WY,GRTE,Grand Teton National Park,National Park,147898402
+1604577,IM,WY,JODR,"John D. Rockefeller, Jr., Memorial Parkway",National Parkway,58288397
+1605065,IM,WY,FOBU,Fossil Butte National Monument,National Monument,791967
+1609331,IM,WY,YELL,Yellowstone National Park,National Park,175040126
+1613756,SE,VI,BUIS,Buck Island Reef National Monument,National Monument,2436890
+1614406,SE,VI,VIIS,Virgin Islands National Park,National Park,25980135
+1616980,MW,MI,ISRO,Isle Royale National Park,National Park,1071614
+1655639,PW,CA,FOPO,Fort Point National Historic Site,National Historic Site,59327420
+1662323,PW,CA,CHIS,Channel Islands National Park,National Park,12352355
+1676813,NC,MD,PISC,Piscataway Park,Other Designation,7112797
+1688073,SE,GA,CHAT,Chattahoochee River National Recreation Area,National Recreation Area,88134150
+1704967,SE,GA,MALU,"Martin Luther King, Jr., National Historic Site",National Historic Site,26618718
+1741168,NE,WV,GARI,Gauley River National Recreation Area,National Recreation Area,3962873
+1780716,NE,VA,MAWA,Maggie L. Walker National Historic Site,National Historic Site,262589
+1803454,IM,MT,GLAC,Glacier National Park,National Park,105029559
+1804731,PW,CA,MANZ,Manzanar National Historic Site,National Historic Site,1275195
+1821086,MW,IL,LIHO,Lincoln Home National Historic Site,National Historic Site,18363586
+1828962,PW,GU,WAPA,War in the Pacific National Historical Park,War in the Pacific,4752911
+1877509,NE,PA,STEA,Steamtown National Historic Site,National Historic Site,3345839
+1877541,NC,DC,FRDE,Franklin Delano Roosevelt Memorial,National Memorial,57295287
+1877542,PW,CA,SAFR,San Francisco Maritime National Historical Park,National Historical Park,109392624
+1877550,PW,HI,PUHE,Pu'ukohola Heiau National Historic Site,National Historic Site,2872043
+1877617,NE,WV,BLUE,Bluestone National Scenic River,National Scenic River,1176026
+1877618,NE,VA,NERI,New River Gorge National River,National River,31811848
+1879023,PW,HI,KAHO,Kaloko-Honokohau National Historical Park,National Historical Park,2523565
+1879024,SE,PR,SAJU,San Juan National Historic Site,National Historic Site,55928192
+1888899,NE,MA,ADAM,Adams National Historical Park,National Historical Park,4741356
+1888900,NC,VA,ARHO,"Arlington House, The Robert E. Lee Memorial",National Memorial,36998465
+1888902,IM,TX,BITH,Big Thicket National Preserve,National Preserve,3318511
+1888904,NE,MA,BOAF,Boston African American National Historic Site,National Historic Site,9225095
+1888906,IM,TX,CHAM,Chamizal National Memorial,National Memorial,7470898
+1888911,NE,PA,EDAL,Edgar Allan Poe National Historic Site,National Historic Site,488638
+1888912,NE,PA,EISE,Eisenhower National Historic Site,National Historic Site,3458807
+1888913,IM,NM,ELMA,El Malpais National Monument,National Monument,3163814
+1888914,NE,NY,ELRO,Eleanor Roosevelt National Historic Site,National Historic Site,1926003
+1888915,PW,CA,EUON,Eugene O'Neill National Historic Site,National Historic Site,103878
+1888916,IM,AZ,FOBO,Fort Bowie National Historic Site,National Historic Site,348811
+1888919,NE,NY,FOST,Fort Stanwix National Monument,National Monument,3033233
+1888922,NE,PA,FRHI,Friendship Hill National Historic Site,National Historic Site,836325
+1888929,NE,NY,HOFR,Home of Franklin D. Roosevelt National Historic Site,National Historic Site,16783758
+1888931,MW,OH,HOCU,Hopewell Culture National Historical Park,National Historical Park,3226903
+1888932,MW,OH,JAGA,James A. Garfield National Historic Site,National Historic Site,448173
+1888934,SE,GA,JICA,Jimmy Carter National Historic Site,National Historic Site,1615203
+1888937,MW,MI,KEWE,Keweenaw National Historical Park,National Historical Park,14612
+1888938,MW,ND,KNRI,Knife River Indian Villages National Historic Site,National Historic Site,709315
+1888939,SE,AL,LIRI,Little River Canyon National Preserve,National Preserve,3162434
+1888940,NE,MA,LOWE,Lowell National Historical Park,National Historical Park,21836453
+1888941,IM,TX,LYJO,Lyndon B. Johnson National Historical Park,National Historical Park,9764783
+1888942,NE,VT,MABI,Marsh-Billings-Rockefeller National Historical Park,National Historical Park,642588
+1888943,NE,NY,MAVA,Martin Van Buren National Historic Site,National Historic Site,550614
+1888944,MW,MN,MISS,Mississippi National River and Recreation Area,National River and Recreation Area,776458
+1888945,PW,CA,MOJA,Mojave National Preserve,National Preserve,10594537
+1888946,SE,MS,NATC,Natchez National Historical Park,National Historical Park,4818689
+1888949,MW,NE,NIOB,Niobrara National Scenic River,National Scenic River,860533
+1888951,SE,GA,OCMU,Ocmulgee National Monument,National Monument,7558072
+1888952,IM,TX,PAAL,Palo Alto Battlefield National Historical Park,National Historical Park,467349
+1888958,MW,WI,SACN,Saint Croix National Scenic Riverway,National Scenic Riverway,17741336
+1888959,NE,NY,SAPA,Saint Paul's Church National Historic Site,National Historic Site,297945
+1888960,NE,NH,SAGA,Saint-Gaudens National Historic Site,National Historic Site,1452253
+1888961,NE,MA,SAMA,Salem Maritime National Historic Site,National Historic Site,30255154
+1888963,NE,MA,SPAR,Springfield Armory National Historic Site,National Historic Site,708837
+1888964,SE,TN,STRI,Stones River National Battlefield,National Battlefield,9788152
+1888965,MW,KS,TAPR,Tallgrass Prairie National Preserve,National Preserve,388767
+1888966,NE,PA,THKO,Thaddeus Kosciuszko National Memorial,National Memorial,199577
+1888967,NE,MD,THST,Thomas Stone National Historic Site,National Historic Site,132139
+1888969,SE,MS,TUPE,Tupelo National Battlefield,National Battlefield,57031
+1888970,NE,PA,UPDE,Upper Delaware Scenic and Recreational River,Scenic and Recreational River,9151018
+1888972,NE,CT,WEFA,Weir Farm National Historic Site,National Historic Site,427394
+1888973,MW,OH,WIHO,William Howard Taft National Historic Site,National Historic Site,436655
+1888974,NC,VA,WOTR,Wolf Trap National Park for the Performing Arts,National Park,23496183
+1888975,NE,NY,WORI,Women's Rights National Historical Park,National Historical Park,850934
+1904107,NE,RI,ROWI,Roger Williams National Memorial,National Memorial,1644547
+1946144,IM,OK,WABA,Washita Battlefield National Historic Site,National Historic Site,194488
+1966567,PW,AS,NPSA,National Park of American Samoa,National Park,113694
+1967105,PW,CA,POCH,Port Chicago Naval Magazine National Memorial,National Memorial,6349
+1971618,NE,MA,FRLA,Frederick Law Olmsted National Historic Site,National Historic Site,187202
+1985525,NC,DC,KOWA,Korean War Veterans Memorial,National Memorial,64663281
+1986829,PW,ID,CRMO,Craters of the Moon National Monument,National Monument,13044205
+1986830,NE,PA,FLNI,Flight 93 National Memorial,National Memorial,2422983
+1989142,NC,DC,WWII,World War II Memorial,National Memorial,55978113
+1993781,SE,VI,CHRI,Christiansted National Historic Site,National Historic Site,4805816
+1993989,SE,VI,SARI,Salt River Bay National Historical Park and Ecological Preserve,National Historical Park,51085
+2002666,NC,DC,MLKM,"Martin Luther King, Jr., Memorial",Other Designation,18802093
+2026588,PW,CA,RORI,Rosie the Riveter/World War II Home Front National Historical Park,National Historical Park,197850
+2035095,SE,SC,CONG,Congaree National Park,National Park,2629690
+2035603,NE,NY,THRI,Theodore Roosevelt Inaugural National Historic Site,National Historic Site,933526
+2035610,MW,OH,FILA,First Ladies National Historic Site,National Historic Site,120928
+2053533,NE,NJ,PAGR,Paterson Great Falls National Historical Park,National Historical Park,177498
+2055170,PW,WA,LEWI,Lewis and Clark National Historical Park,National Historical Park,9515314
+2057537,NE,NY,FEHA,Federal Hall National Memorial,National Memorial,9876807
+2060434,NE,NY,AFBG,African Burial Ground National Monument,National Monument,554291
+2083047,NE,NY,THRB,Theodore Roosevelt Birthplace National Historic Site,National Historic Site,740398
+2083660,NE,NY,HAGR,Hamilton Grange National Memorial,National Memorial,734123
+2091841,MW,AR,CHSC,Little Rock Central High School National Historic Site,National Historic Site,1000434
+2092022,NE,NY,GOIS,Governors Island National Monument,National Monument,3843259
+2127375,IM,CO,SAND,Sand Creek Massacre National Historic Site,National Historic Site,37313
+2463113,MW,MO,HSTR,Harry S Truman National Historic Site,National Historic Site,2040847
+2492338,SE,AL,TUAI,Tuskegee Airmen National Historic Site,National Historic Site,365883
+2510335,MW,KS,BRVB,Brown v. Board of Education National Historic Site,National Historic Site,270456
+2559483,IM,CO,BEOL,Bent's Old Fort National Historic Site,National Historic Site,2063448
+2733411,MW,SD,MNRR,Missouri National Recreation River,National Recreation River,1886564
+2733416,SE,FL,TIMU,Timucuan Ecological and Historic Preserve,Ecological and Historic Preserve,18018607
+2733420,NC,DC,THIS,Theodore Roosevelt Island,National Memorial,5602184
+2733421,IM,WY,DETO,Devils Tower National Monument,National Monument,18329938
+2733422,NC,DC,MABE,Mary McLeod Bethune Council House National Historic Site,National Historic Site,202237
+2733423,NC,DC,FRDO,Frederick Douglass National Historic Site,National Historic Site,2100875
+2733424,NE,NY,GEGR,General Grant National Memorial,National Memorial,5959659
+2733425,MW,MO,ULSG,Ulysses S. Grant National Historic Site,National Historic Site,658952
+2733426,NC,MD,CLBA,Clara Barton National Historic Site,National Historic Site,607242
+2733428,SE,LA,CARI,Cane River Creole National Historical Park,National Historical Park,367437
+2733430,NC,DC,WHHO,White House,Other Designation,65699749
+2733431,PW,HI,VALR,World War II Valor in the Pacific National Monument,National Monument,51327698
+2733432,MW,AR,ARPO,Arkansas Post National Memorial,National Memorial,2709228
+2733433,MW,AR,WICL,President William Jefferson Clinton Birthplace Home National Historic Site,National Historic Site,60563
+2733434,MW,MI,RIRA,River Raisin National Battlefield Park,National Battlefield Park,511111
+2733436,NE,MA,NEBE,New Bedford Whaling National Historical Park,National Historical Park,5115941
+2733437,NE,MA,LONG,Longfellow House-Washington's Headquarters National Historic Site,National Historic Site,978343
+2733439,NC,DC,PAAV,Pennsylvania Avenue National Historic Site,National Historic Site,6442966
+2733440,MW,KS,NICO,Nicodemus National Historic Site,National Historic Site,296433
+2733442,MW,SD,MIMI,Minuteman Missile National Historic Site,National Historic Site,671529
+2733443,IM,CO,GRSA,Great Sand Dunes National Park,National Park,13526909
+2733443,IM,CO,GRSA,Great Sand Dunes National Preserve,National Preserve,13526909
+2736075,MW,OH,CHYO,Charles Young Buffalo Soldiers National Monument,National Monument,14204
+2738287,NC,DC,NACA,National Capital Parks,Park,236187845
+2754548,PW,CA,CECH,Casar E. Chpvez National Monument,National Monument,44875
+2760439,AK,AK,DENA,Denali National Park,National Park,17923704
+2760439,AK,AK,DENA,Denali National Preserve,National Park,17923704
+2766087,IM,TX,RIGR,Rio Grande Wild and Scenic River,Wild and Scenic River,22754
+2775864,IM,NM,MAPR,Manhattan Project National Historical Park,National Historical Park,104715
+2775865,IM,TX,WACO,Waco Mammoth National Monument,National Monument,90061
+2775875,NC,DC,BEPA,Belmont-Paul Women's Equality National Monument,National Monument,2704

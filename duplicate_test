@@ -1,0 +1,108 @@
+Script started on Sat Jan 23 12:06:20 2021
+Restored session: Sat Jan 23 12:02:07 CST 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004hppython3 Assignment1.py[1m [0m[0m [?2004l
+
+**********************************************************************
+*                                                                    *
+*                                                                    *
+*	   Welcome to Andre's record management system               *
+*                                                                    *
+*                                                                    *
+**********************************************************************
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 2
+
+
+----------------------------------------------------------------------
+
+You have selected to open an existing database....
+
+
+Please enter the prefix of your database: Parks
+
+
+Succesfully opened Parks database....
+
+----------------------------------------------------------------------
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 7
+
+Adding a record....
+
+
+
+**********************************************************************
+
+
+Enter in the record ID you would like to add: 1888941
+Enter the Region    :	ASDF
+Enter the State     :	ASDF
+Enter the Code      :	ASDF
+Enter the Name      :	ASDF
+Enter the Type      :	ASD
+Enter the Visitors  :	ASDF
+
+
+**********************************************************************
+
+
+You cannot use the same id for two records
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 9
+
+
+----------------------------------------------------------------------
+
+
+You left a database open, safely shutting down...
+
+
+Exiting....
+
+
+----------------------------------------------------------------------
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Jan 23 12:06:48 2021

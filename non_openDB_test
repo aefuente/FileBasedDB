@@ -1,0 +1,237 @@
+Script started on Sun Jan 24 05:17:17 2021
+Restored session: Sun Jan 24 05:14:19 CST 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004hppython3 Assignment1.py[1m [0m[0m [?2004l
+
+**********************************************************************
+*                                                                    *
+*                                                                    *
+*	   Welcome to Andre's record management system               *
+*                                                                    *
+*                                                                    *
+**********************************************************************
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 1 2
+
+
+----------------------------------------------------------------------
+
+You have selected to open an existing database....
+
+
+Please enter the prefix of your database: Parks
+
+
+Succesfully opened Parks database....
+
+----------------------------------------------------------------------
+
+
+With Parks open please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 3
+
+
+----------------------------------------------------------------------
+
+
+Closing Parks database...
+
+
+----------------------------------------------------------------------
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 8
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can delete a record...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 7
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can add a record...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 6
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can create a report...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 5
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can update a record...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 4
+
+
+----------------------------------------------------------------------
+
+
+You must open a database before you can display a record...
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 3
+
+
+----------------------------------------------------------------------
+
+
+You are trying to close a database when none are open
+
+
+----------------------------------------------------------------------
+
+
+Please enter the number next to the command you wish to use
+
+	1) Create a new database
+	2) Open a database
+	3) Close a database
+	4) Display record
+	5) Update record
+	6) Create report
+	7) Add record
+	8) Delete record
+	9) Quit
+
+Answer: 9
+
+
+----------------------------------------------------------------------
+
+
+Exiting....
+
+
+----------------------------------------------------------------------
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                          ]7;file://MacBook-Pro/Users/andre/DataBaseMG/Assignment_1[0m[27m[24m[Jandre@MacBook-Pro Assignment_1 % [K[?2004heexit[?2004l
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Jan 24 05:17:59 2021

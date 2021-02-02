@@ -1,0 +1,180 @@
+
+
+**********************************************************************
+Report item #1
+
+
+ID                  :	 2877                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 CHIR                
+Name                :	 Chiricahua National Monument
+Type                :	 National Monument   
+Visitors            :	 3962885             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #2
+
+
+ID                  :	 6092                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 HUTR                
+Name                :	 Hubbell Trading Post National Historic Site
+Type                :	 National Historic Site
+Visitors            :	 6197119             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #3
+
+
+ID                  :	 8538                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 NAVA                
+Name                :	 Navajo National Monument
+Type                :	 National Monument   
+Visitors            :	 3399225             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #4
+
+
+ID                  :	 9526                
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PISP                
+Name                :	 Pipe Spring National Monument
+Type                :	 National Monument   
+Visitors            :	 2456547             
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #5
+
+
+ID                  :	 10683               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 SAGU                
+Name                :	 Saguaro National Park
+Type                :	 National Park       
+Visitors            :	 33169763            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #6
+
+
+ID                  :	 15492               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 ORPI                
+Name                :	 Organ Pipe Cactus National Monument
+Type                :	 National Monument   
+Visitors            :	 17138757            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #7
+
+
+ID                  :	 23864               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 PEFO                
+Name                :	 Petrified Forest National Park
+Type                :	 National Park       
+Visitors            :	 54138794            
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #8
+
+
+ID                  :	 23865               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 GLCA                
+Name                :	 Glen Canyon National Recreation Area
+Type                :	 National Recreation Area
+Visitors            :	 104419450           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #9
+
+
+ID                  :	 23866               
+Region              :	 IM                  
+State               :	 AZ                  
+Code                :	 GRCA                
+Name                :	 Grand Canyon National Park
+Type                :	 National Park       
+Visitors            :	 205486894           
+
+
+**********************************************************************
+
+
+
+
+**********************************************************************
+Report item #10
+
+
+ID                  :	 23944               
+Region              :	 IM                  
+State               :	 UT                  
+Code                :	 RABR                
+Name                :	 Rainbow Bridge National Monument
+Type                :	 National Monument   
+Visitors            :	 7007990             
+
+
+**********************************************************************
+
+
